@@ -1,8 +1,7 @@
 * Despite continuous efforts to retain customers, banks face a rapidly shifting landscape where customers can switch providers with just a few taps on their smartphones. It’s crucial for banks to understand what drives customers to leave. By identifying these triggers, banks can implement strategies to prevent churn and enhance customer satisfication
 * This project aims to conduct a comprehensive analysis of bank customer churn, utilizing machine learning techniques to identify the key factors driving customer attrition and determine which model is the best fit for predicting and addressing churn.
-* The [dataset](https://www.kaggle.com/datasets/saurabhbadole/bank-customer-churn-prediction-dataset) used in this project contains key features. They serve as the foundation for our analysis, providing the necessary information to explore patterns, train machine learning models, and predict customer churn with accuracy:
-*
-**RowNumber**: The sequential number assigned to each row in the dataset
+* The [dataset](https://www.kaggle.com/datasets/saurabhbadole/bank-customer-churn-prediction-dataset) used in this project contains key features. They serve as the foundation for our analysis, providing the necessary information to explore patterns, train machine learning models, and predict customer churn with accuracy:<br>
+**RowNumber**: The sequential number assigned to each row in the dataset<br>
 **CustomerId**: A unique identifier for each customer
 . **Surname**: The surname of the customer
 . **CreditScore**: The credit score of the customer
